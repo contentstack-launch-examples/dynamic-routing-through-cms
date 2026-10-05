@@ -11,7 +11,7 @@
   "dependencies": {
     "@contentstack/live-preview-utils": "^4.1.1",
     "contentstack": "^3.26.2",
-    "next": "^16.3.3",
+    "next": "^16.3.6",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
